@@ -1,0 +1,24 @@
+{
+    "start_date": "2023-10-01",
+    "phases": [
+      {
+        "name": "Foundation (0 → 1200)",
+        "weeks": [
+          {
+            "week_number": 1,
+            "topics": ["Binary Search", "Prefix Sums"],
+            "problem_target": 30,
+            "mock_contest": "Virtual Div.3",
+            "focus": "Accuracy over speed"
+          },
+          {
+            "week_number": 2,
+            "topics": ["Two Pointers", "Greedy"],
+            "problem_target": 35,
+            "mock_contest": "Virtual Div.3",
+            "focus": "Speed + Accuracy"
+          }
+        ]
+      }
+    ]
+  }
